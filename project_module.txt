@@ -1,0 +1,62 @@
+India grabs
+
+1. User  Login / Register Module.
+
+	* User Management
+
+2. Vendor Login / Register Module.( Needs approval from admin end) 
+
+3. Vendor Registration Approval
+
+	* Vendor Management
+
+3. New Deal Posting from vendor side. ( Needs approval from admin end) 
+
+4. Deal posting approval
+
+5. Deals frontend listing, Categories subcategories and city wise
+
+	* Categories and sub category management, Deals Management, City Management
+
+6. Deals detail page with buying option
+
+7. Profile Page 
+	i.  Edit profile basic informations
+	ii. Change password
+	
+8. My Deals page
+	i. All
+	ii. Bought and undelivered
+	iii. Bought and delivered
+	iv. Disputed deals
+	* Dispute Management 
+
+9. Purchased Deals Detail page
+	. Normal info about deal, QR Code, Code
+
+10. Payment module (UPI)
+
+
+
+
+
+Admin End
+
+1. Admin management
+2. Subadmin management
+2. User Management
+4. Vendor Management
+5. Deals Management
+6. Payment Transactions Management
+7. Dispute Management 
+	-> User send disputes to admin. Admin clarify that and reply back to user. We have to give provision for an user to ask "Refund my money back" or "i can wait" something like that.
+	-> When admin closes an dispute, we have to show refund payment to user, or deal will be served without fail.
+
+( Manual payment and update refund status with mail notification to the respective user
+or send automated refund payment if deal not able to use by an user )
+8. Categories and sub category management
+9. City Management
+10. Language Management
+11. Fixed Email Management
+12. Push notifications management
+
